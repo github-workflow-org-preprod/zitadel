@@ -65,7 +65,7 @@ With ZITADEL, you are assured of a robust and customizable turnkey solution for 
 
 ### Deploy ZITADEL (Self-Hosted)
 
-Deploying ZITADEL locally takes less than 3 minutes. Go ahead and give it a try!
+Deploying ZITADEL locally takes less than 3 minutes. Go ahead and give it a try!  
 
 * [Linux](https://zitadel.com/docs/self-hosting/deploy/linux)
 * [MacOS](https://zitadel.com/docs/self-hosting/deploy/macos)
